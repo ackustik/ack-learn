@@ -8,3 +8,5 @@ ACK LEARN
 - Deep Learning
 - Tools AI
 - Data Mining
+- Memilih minat
+- Menambah minat
